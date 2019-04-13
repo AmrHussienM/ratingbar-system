@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "218297278059",
+    "firebase_url": "https://ratingbar-6a51a.firebaseio.com",
+    "project_id": "ratingbar-6a51a",
+    "storage_bucket": "ratingbar-6a51a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218297278059:android:d88da52577c220b8",
+        "android_client_info": {
+          "package_name": "com.example.ratingbar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218297278059-ng34t8dgi7vce9sp38iimjd5e2bg1tmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu22hmw-_nKzY43XScWUKKV8t0pzJ_4Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218297278059-ng34t8dgi7vce9sp38iimjd5e2bg1tmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
